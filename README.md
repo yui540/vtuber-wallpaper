@@ -5,6 +5,9 @@
 ## キズナアイ
 ![ai](./ai.png)
 
+## 輝夜月
+![runa](./runa.png)
+
 ## ミライアカリ
 ![akari](./akari.png)
 
