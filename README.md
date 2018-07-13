@@ -15,7 +15,7 @@
 ![sana](./sana.png)
 
 ## 鳩羽つぐ
-![tugu](./tugu.png)
+![tsugu](./tsugu.png)
 
 ## 月ノ美兎
 ![mito](./mito.png)
