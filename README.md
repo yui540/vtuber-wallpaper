@@ -19,3 +19,6 @@
 
 ## 月ノ美兎
 ![mito](./mito.png)
+
+## 猫宮ひなた
+![hinata](./hinata.png)
