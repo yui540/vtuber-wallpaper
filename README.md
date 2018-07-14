@@ -11,6 +11,9 @@
 ## ミライアカリ
 ![akari](./akari.png)
 
+## ときのそら
+![sora](./sora.png)
+
 ## 名取さな
 ![sana](./sana.png)
 
